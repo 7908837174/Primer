@@ -1,0 +1,14 @@
+task-manager-mean-stack/
+├── api/
+│   ├── db/
+│   │   └── models/
+│   │       ├── list.model.js
+│   │       ├── task.model.js
+│   │       └── user.model.js
+│   └── routes/
+├── config/
+├── tests/
+├── .env
+├── package.json
+├── server.js
+└── setup.sh
